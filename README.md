@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a text-based adventure game using python<br>	•	I’m looking to collaborate on projects related to web development.<br>	•	I’m looking for help with advanced Python techniques and web development challenges.<br>	•	I’m currently learning more about mobile app development.<br>	•	Ask me about film and TV<br>	
+I’m currently working on a personal finance tracker using python<br>	•	I’m looking to collaborate on projects related to web development.<br>	•	I’m looking for help with advanced Python techniques and web development challenges.<br>	•	I’m currently learning more about mobile app development.<br>	•	Ask me about film and TV<br>	
 
 
 ## 🌐 Socials:
